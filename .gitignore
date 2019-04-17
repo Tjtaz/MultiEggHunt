@@ -75,3 +75,14 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.ini
+*.json
+*.bin
+MultiEggHunt/Saved/Config/Windows/Engine.ini
+MultiEggHunt/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+MultiEggHunt/Saved/Autosaves/PackageRestoreData.json
+MultiEggHunt/Intermediate/CachedAssetRegistry.bin
+MultiEggHunt/Saved/Config/Windows/Engine.ini
+MultiEggHunt/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+MultiEggHunt/Saved/Autosaves/PackageRestoreData.json
+MultiEggHunt/Intermediate/CachedAssetRegistry.bin
